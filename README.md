@@ -7,15 +7,21 @@ My work spans data analysis and statistics, management/administration systems, u
 Tech Stack & Tools
 
 Databases: Microsoft SQL Server, MySQL, Oracle SQL
+
 Data Science & ML: Python (Machine Learning), RStudio
+
 Development: JavaScript, C#
 
 What I Do
 
 📊 Data analysis, statistical modeling, and reporting
+
 🤖 Machine learning projects using Python
+
 🗂️ Management and administration systems
+
 🔐 User registration and authentication platforms
+
 🖼️ Image transformation and processing tools
 
 I'm passionate about combining analytical thinking with solid engineering practices to deliver reliable, data-driven applications. Feel free to explore my repositories below or get in touch to collaborate!
