@@ -2,7 +2,7 @@
 
 My name is Onur, i'm a certified Data Scientist and Software Developer based in Germany.
 
-My work spans data analysis and statistics, management/administration systems, user registration platforms, and image transformation projects. I enjoy building solutions that turn raw data into actionable insights and translating business logic into clean, functional software.
+My work spans data analysis and statistics, management/administration systems, user registration platforms, and Machine learning projects. I enjoy building solutions that turn raw data into actionable insights and translating business logic into clean, functional software.
 
 Tech Stack & Tools
 
