@@ -17,6 +17,7 @@ What I Do
 📊 Data analysis, statistical modeling, and reporting
 
 🤖 Machine learning projects 
+
 🗂️ Management and administration systems
 
 🔐 User registration and authentication platforms
