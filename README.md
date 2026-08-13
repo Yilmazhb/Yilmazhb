@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**Yilmazhb/Yilmazhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Onur, i'm a certified Data Scientist and Software Developer based in Germany.
 
-Here are some ideas to get you started:
+My work spans data analysis and statistics, management/administration systems, user registration platforms, and image transformation projects. I enjoy building solutions that turn raw data into actionable insights and translating business logic into clean, functional software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack & Tools
+
+Databases: Microsoft SQL Server, MySQL, Oracle SQL
+Data Science & ML: Python (Machine Learning), RStudio
+Development: JavaScript, C#
+
+What I Do
+
+📊 Data analysis, statistical modeling, and reporting
+🤖 Machine learning projects using Python
+🗂️ Management and administration systems
+🔐 User registration and authentication platforms
+🖼️ Image transformation and processing tools
+
+I'm passionate about combining analytical thinking with solid engineering practices to deliver reliable, data-driven applications. Feel free to explore my repositories below or get in touch to collaborate!
