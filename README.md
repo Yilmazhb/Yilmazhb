@@ -8,7 +8,7 @@ Tech Stack & Tools
 
 Databases: Microsoft SQL Server, MySQL, Oracle SQL
 
-Data Science & ML: Python (Machine Learning), RStudio
+Data Science & ML: Python, RStudio
 
 Development: JavaScript, C#
 
@@ -16,8 +16,7 @@ What I Do
 
 📊 Data analysis, statistical modeling, and reporting
 
-🤖 Machine learning projects using Python
-
+🤖 Machine learning projects 
 🗂️ Management and administration systems
 
 🔐 User registration and authentication platforms
