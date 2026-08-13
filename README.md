@@ -8,7 +8,7 @@ Tech Stack & Tools
 
 Databases: Microsoft SQL Server, MySQL, Oracle SQL
 
-Data Science & ML: Python, RStudio
+Data Science & ML: Python, Rstudio
 
 Development: JavaScript, C#
 
