@@ -14,7 +14,7 @@ Development: JavaScript, C#
 
 What I Do
 
-📊 Data analysis, statistical modeling, and reporting
+📊 Data analysis, statistical modeling and reporting
 
 🤖 Machine learning projects 
 
